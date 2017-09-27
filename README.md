@@ -21,7 +21,7 @@ Your new address: <ADDRESS 3>
 
 ```
 $ ./bitcorn createblockchain -address <ADDRESS 1>
-0000005420fbfdafa00c093f56e033903ba43599fa7cd9df40458e373eee724d
+00004f6bbfc0d363aed361e6aad809d785bc9341255ca4ddd6c7ae7e55e32b5b
 
 Done!
 ```
@@ -38,7 +38,7 @@ $ ./bitcorn send -from <ADDRESS 2> -to <ADDRESS 1> -amount 5
 
 ```
 $ ./bitcorn send -from <ADDRESS 1> -to <ADDRESS 2> -amount 6
-00000019afa909094193f64ca06e9039849709f5948fbac56cae7b1b8f0ff162
+0000426391a6f880c05e40a7190e3c9912c5f857cf9fda2956569ad9eac714ff
 
 Success!
 ```
