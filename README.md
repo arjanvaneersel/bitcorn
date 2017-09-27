@@ -1,4 +1,4 @@
-# Obichain
+# Bitcorn
 
 Having fun with blockchain/cryptocurrency technology
 
